@@ -1,0 +1,8 @@
+help,12,covid-19,
+kigali,12,covid,
+musanze,3,diarrh,
+nyumba,,,
+3,,,
+4,,,
+ad,,,
+dddd,,,
